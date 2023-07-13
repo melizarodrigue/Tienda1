@@ -1,0 +1,28 @@
+.wrapper{
+    background-color: darkmagenta;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 30vw;
+    height: 300px;
+    margin: 10px;
+}
+
+.card-precio{
+    text-align: center;
+    margin: auto;
+}
