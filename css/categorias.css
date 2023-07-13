@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(194, 107, 78);
+}
+.categorias{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    color: #000;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 20vw;
+    height: center;
+    margin: 15px;
+}
+
+.card-precio{
+    text-align: center;
+    margin: 30px;
+}
